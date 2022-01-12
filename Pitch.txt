@@ -1,0 +1,13 @@
+For my project, I've been learning about visualizing data with Microsoft HoloLens 2 using Unity. One of the quintessential 
+aspect of an AugmentedR/MixedR device is the ability to render 3D models, in my case specifically, point clouds data. 
+However, because a sizeable point clouds model has at least tens of thousands of vertices, 
+we want to find a good approach to render in high resolution and still remain a stable framerate to ensure user 
+experience, without the need for application remoting.
+Currently, the render pipelines that Unity supports for the HoloLens are the Built-in Pipeline and Universal
+pipeline. Using those pipelines, I rendered a single model in 5 methods: Game Objects, Mesh Topology, 
+Particle System, Compute Shader and VFX Graph. To evaluate, I track each methods CPU and GPU framerate, 
+memory consumption and batch counts.
+as well as power utilization to see which approach is most energy efficient.
+ The goal is to open up more conversations for diverse rendering approaches,
+towards developers who want to make applications on the HoloLens platform and potentially further optimize and 
+refine these techniques.
