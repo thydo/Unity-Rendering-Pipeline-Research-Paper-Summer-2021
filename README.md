@@ -1,8 +1,8 @@
 # Characterizing Unity Render Pipelines and Visualization Techniques of Point Clouds Data on HoloLens 2
-This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine.  
+&ensp; This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine.  
 
 ## Abstract
-The Microsoft HoloLens 2 provides users an interactive
+&ensp; The Microsoft HoloLens 2 provides users an interactive
 medium to 3D models. In this paper, point clouds data rendering is examined. A small model already contain thousands
 of data points. However, with a device of limited computing
 capability, HoloLens targeted applications must be efficient
