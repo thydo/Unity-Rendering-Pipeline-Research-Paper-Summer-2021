@@ -1,8 +1,8 @@
 # Characterizing Unity Render Pipelines and Visualization Techniques of Point Clouds Data on HoloLens 2
-&ensp; This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine.  
+&emsp; This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine.  
 
 ## Abstract
-&ensp; The Microsoft HoloLens 2 provides users an interactive
+&emsp; The Microsoft HoloLens 2 provides users an interactive
 medium to 3D models. In this paper, point clouds data rendering is examined. A small model already contain thousands
 of data points. However, with a device of limited computing
 capability, HoloLens targeted applications must be efficient
@@ -19,10 +19,10 @@ basic ground work for further optimization research for the
 HoloLens 2 and other MR devices using Unity.
 
 ### [Full paper](Assets/ThyDo_FinalReport.pdf)
-#### &ensp; [Presentation](Assets/ThyDo_Final%20Presentation.pdf)
-#### &ensp; [Rendered Rabbits](Assets/RabbitPhotos/)
-#### &ensp; [Pitch Banner](Assets/ThyDo_PresentationPitch.pdf)
-#### &ensp; [Pitch Text](Assets/Pitch.txt)
+#### &emsp; [Presentation](Assets/ThyDo_Final%20Presentation.pdf)
+#### &emsp; [Rendered Rabbits](Assets/RabbitPhotos/)
+#### &emsp; [Pitch Banner](Assets/ThyDo_PresentationPitch.pdf)
+#### &emsp; [Pitch Text](Assets/Pitch.txt)
 
 ## Unity Projects
 ### [Rendering with Built-in Rendering Pipeline](https://github.com/thydo/Profiler)
