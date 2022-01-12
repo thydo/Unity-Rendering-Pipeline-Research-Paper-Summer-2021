@@ -25,5 +25,5 @@ HoloLens 2 and other MR devices using Unity.
 #### &emsp; [Pitch Text](Assets/Pitch.txt)
 
 ## Unity Projects
-### [Rendering with Built-in Rendering Pipeline](https://github.com/thydo/Profiler)
+### [Rendering with Built-in Rendering Pipeline](https://github.com/thydo/BRP)
 ### [Rendering with Universal Rendering Pipeline](https://github.com/thydo/URP)
