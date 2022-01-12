@@ -18,7 +18,7 @@ count. VFX is also a good contender, albeit only the Universal Render Pipeline s
 basic ground work for further optimization research for the
 HoloLens 2 and other MR devices using Unity.
 
-### [Full paper](Assets/ThyDo_FinalReport.pdf)
+#### [Full paper](Assets/ThyDo_FinalReport.pdf)
 ### [Presentation](Assets/ThyDo_Final%20Presentation.pdf)
 ### [Rendered Rabbits](Assets/RabbitPhotos/)
 ### [Pitch Banner](Assets/ThyDo_PresentationPitch.pdf)
