@@ -19,7 +19,7 @@ basic ground work for further optimization research for the
 HoloLens 2 and other MR devices using Unity.
 
 ### [Full paper](Assets/ThyDo_FinalReport.pdf)
-### [Presentation](Assets/ThyDo_Final Presentation.pdf)
+### [Presentation](Assets/ThyDo_Final%20Presentation.pdf)
 ### [Rendered Rabbits](Assets/RabbitPhotos/)
 ### [Pitch Banner](Assets/ThyDo_PresentationPitch.pdf)
 ### [Pitch Text](Assets/Pitch.txt)
