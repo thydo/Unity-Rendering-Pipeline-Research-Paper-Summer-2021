@@ -1,5 +1,5 @@
 # Characterizing Unity Render Pipelines and Visualization Techniques of Point Clouds Data on HoloLens 2
-&emsp; This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine.  
+&emsp; This research paper was written under the National Science Foundation sponsored program, [Visual Media Research Experiences for Undergraduate](https://web.asu.edu/imaging-lyceum/visual-media-reu) during Summer 2021. Where I explored how to develop on the Microsoft HoloLens 2 using Unity Game Engine and learned the basics in profiling. 
 
 ## Abstract
 &emsp; The Microsoft HoloLens 2 provides users an interactive
